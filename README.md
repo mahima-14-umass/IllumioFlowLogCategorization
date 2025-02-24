@@ -31,8 +31,8 @@ Flow Log Tagger is a scalable and efficient Java application that processes flow
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/mahima-14-umass/FlowLogCategorization.git
-   cd FlowLogCategorization
+   git clone https://github.com/mahima-14-umass/IllumioFlowLogCategorization.git
+   cd IllumioFlowLogCategorization
    ```
 
 2. Build the project:
